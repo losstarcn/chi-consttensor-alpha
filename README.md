@@ -22,9 +22,19 @@ A speculative-but-structured theory attempting to derive α (fine-structure cons
 
 ---
 
+## 📖 License
+
+This repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share and adapt the materials with attribution.  
+Please credit: **losstar + χ-Assistant (2025)**.
+
+---
+
 ## 📎 Contact
 
 > Author: losstar / 落实  
-> Assistant: χ-Assistant  
+> Assistant: χ-Assistant
+> Email： losstarBTM@yeah.net
+> WeiXin：losstar
 > Repository created: 2025.04.17  
 > GitHub: https://github.com/losstarcn/chi-consttensor-alpha  
