@@ -14,6 +14,14 @@ A speculative-but-structured theory attempting to derive α (fine-structure cons
 
 ---
 
+## 📁 Repository Content
+
+- `chi-alpha-summary-v1.0-losstarcn.pdf` – Core bilingual summary of the χ-ConstTensor model and α derivation
+- `README.md` – Project description and metadata
+- `LICENSE` – CC-BY 4.0 license declaration
+
+---
+
 ## 📌 Project Status
 
 - ✅ v1.0 Summary ready (bilingual PDF)
