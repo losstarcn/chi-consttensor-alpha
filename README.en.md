@@ -46,6 +46,9 @@ Our initial result achieved:
 
 ---
 
+![Joint Heatmap](docs/images/chi_consttensor_heatmap.png)
+
+---
 ### 🔬 Scientific Significance
 
 | Domain            | Contribution                                                              |
