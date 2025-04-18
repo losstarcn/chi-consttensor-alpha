@@ -51,6 +51,8 @@ Our initial result achieved:
 
 ![Joint Heatmap](docs/images/phi_curve_alpha_v2.png)
 
+![Φ(x) Family](docs/images/phi_family_map.png)
+
 ---
 ### 🔬 Scientific Significance
 
