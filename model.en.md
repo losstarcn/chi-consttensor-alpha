@@ -71,6 +71,10 @@ This enables:
 
 Goal: Find \( \Phi(\chi) \) such that \( \forall C_i \in \{\alpha, h, c\}, \exists \chi_i \) with \( \Phi(\chi_i) = C_i \).
 
+![Tensor Manifold](docs/images/const_tensor_surface.png)
+
+*Figure: Composite χ-space manifold with α-h-c projection point*
+
 ---
 
 ### 5. Optimization Process
