@@ -1,0 +1,32 @@
+{
+  "project": "chi-consttensor-alpha",
+  "version": "v1.1-preview",
+  "generated_at": "2025-04-18T21:24:11.590666",
+  "images": [
+    {
+      "filename": "chi_consttensor_heatmap.png",
+      "description": "Heatmap of joint fitting error for \u03b1, h, c in \u03c7-space.",
+      "markdown": "![Heatmap](docs/images/chi_consttensor_heatmap.png)"
+    },
+    {
+      "filename": "phi_curve_alpha_v2.png",
+      "description": "Absolute error curve of \u03a6\u2081(x) vs \u03b1 across \u03c7.",
+      "markdown": "![Alpha Error Curve](docs/images/phi_curve_alpha_v2.png)"
+    },
+    {
+      "filename": "chi_variable_path.png",
+      "description": "Visual decomposition of \u03c7 using log, \u03c0, and \u221a5.",
+      "markdown": "![\u03c7 Path](docs/images/chi_variable_path.png)"
+    },
+    {
+      "filename": "phi_family_map.png",
+      "description": "Comparison of \u03a6\u2081, \u03a6\u2082, \u03a6\u2083 function families.",
+      "markdown": "![\u03a6(x) Family](docs/images/phi_family_map.png)"
+    },
+    {
+      "filename": "const_tensor_surface.png",
+      "description": "3D manifold surface of \u03c7-tensor space with projected \u03b1-h-c point.",
+      "markdown": "![Tensor Manifold](docs/images/const_tensor_surface.png)"
+    }
+  ]
+}
