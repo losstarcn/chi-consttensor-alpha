@@ -48,6 +48,9 @@ Our initial result achieved:
 
 ![Joint Heatmap](docs/images/chi_consttensor_heatmap.png)
 
+
+![Joint Heatmap](docs/images/phi_curve_alpha_v2.png)
+
 ---
 ### 🔬 Scientific Significance
 
