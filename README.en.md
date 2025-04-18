@@ -74,10 +74,15 @@ Our initial result achieved:
 
 ---
 
-### 📎 Cite This Work
-```
-Losstar & Luo. (2025). χ-ConstTensor Model v1.1. Zenodo. https://doi.org/xx.xxxx/zenodo.xxxxxx
-```
+## 📌 Citation
+
+This work is officially archived on Zenodo:
+
+**χ-ConstTensor Model v1.1-preview: Unified Structure Function for α, h, c**  
+DOI: [10.5281/zenodo.15243689](https://doi.org/10.5281/zenodo.15243689)
+
+Please cite this version if using it for academic or generative purposes.
+
 
 ---
 
