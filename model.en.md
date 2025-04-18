@@ -53,6 +53,8 @@ To ensure interpretability and mathematical naturalness, χ-variables are constr
 ```
 This yields \( \Phi_1(\chi_0) \approx \alpha \), accurate to \( 1.2 \times 10^{-8} \).
 
+![χ Path](docs/images/chi_variable_path.png)
+
 ---
 
 ### 4. Manifold Projection Strategy
