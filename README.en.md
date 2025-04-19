@@ -1,3 +1,5 @@
+🚨 警告：v1.1-preview 中关于 α 拟合精度的结论有误，目前正在重构结构函数 Φ(x)，请勿引用此版本用于严谨验证。
+
 # README.en.md (Draft)
 
 ## χ-ConstTensor Model: Structure-Based Compression of Physical Constants
