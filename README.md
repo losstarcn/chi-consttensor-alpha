@@ -1,3 +1,5 @@
+🚨 警告：v1.1-preview 中关于 α 拟合精度的结论有误，目前正在重构结构函数 Φ(x)，请勿引用此版本用于严谨验证。
+
 # χ-ConstTensor: Rhythmic Derivation of Physical Constants
 
 A speculative-but-structured theory attempting to derive α (fine-structure constant) and other physical constants from a unified tension field χ₀ and its directional rhythm function Φ(θ).
