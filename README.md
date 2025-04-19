@@ -1,4 +1,6 @@
 🚨 警告：v1.1-preview 中关于 α 拟合精度的结论有误，目前正在重构结构函数 Φ(x)，请勿引用此版本用于严谨验证。
+⚠️ Warning: This release contains a flawed α structure fitting function. The claimed relative error (~1e-8) is invalid. We are preparing a corrected version.
+---
 
 # χ-ConstTensor: Rhythmic Derivation of Physical Constants
 
